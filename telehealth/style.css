@@ -1,0 +1,32 @@
+body {
+    font-family: Arial;
+    background-color: #f4f9fc;
+    padding: 20px;
+}
+h1, h2 {
+    color: #2c6fb2;
+}
+.emergency {
+    color: red;
+    font-weight: bold;
+    border: 2px solid red;
+    padding: 10px;
+    margin: 15px 0;
+    background-color: #ffe5e5;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th {
+    background-color: #2c6fb2;
+    color: white;
+    padding: 8px;
+}
+
+td {
+    border: 1px solid #ccc;
+    padding: 8px;
+    text-align: center;
+}
